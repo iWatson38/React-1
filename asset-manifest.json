@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/First-Project-on-React/static/css/main.3de02d04.chunk.css",
+    "main.js": "/First-Project-on-React/static/js/main.d123eae6.chunk.js",
+    "main.js.map": "/First-Project-on-React/static/js/main.d123eae6.chunk.js.map",
+    "runtime-main.js": "/First-Project-on-React/static/js/runtime-main.0f25119d.js",
+    "runtime-main.js.map": "/First-Project-on-React/static/js/runtime-main.0f25119d.js.map",
+    "static/js/2.128afdeb.chunk.js": "/First-Project-on-React/static/js/2.128afdeb.chunk.js",
+    "static/js/2.128afdeb.chunk.js.map": "/First-Project-on-React/static/js/2.128afdeb.chunk.js.map",
+    "static/css/3.10790108.chunk.css": "/First-Project-on-React/static/css/3.10790108.chunk.css",
+    "static/js/3.41c41996.chunk.js": "/First-Project-on-React/static/js/3.41c41996.chunk.js",
+    "static/js/3.41c41996.chunk.js.map": "/First-Project-on-React/static/js/3.41c41996.chunk.js.map",
+    "static/css/4.9f99cdce.chunk.css": "/First-Project-on-React/static/css/4.9f99cdce.chunk.css",
+    "static/js/4.2e152e2f.chunk.js": "/First-Project-on-React/static/js/4.2e152e2f.chunk.js",
+    "static/js/4.2e152e2f.chunk.js.map": "/First-Project-on-React/static/js/4.2e152e2f.chunk.js.map",
+    "static/js/5.142118e5.chunk.js": "/First-Project-on-React/static/js/5.142118e5.chunk.js",
+    "static/js/5.142118e5.chunk.js.map": "/First-Project-on-React/static/js/5.142118e5.chunk.js.map",
+    "index.html": "/First-Project-on-React/index.html",
+    "static/css/3.10790108.chunk.css.map": "/First-Project-on-React/static/css/3.10790108.chunk.css.map",
+    "static/css/4.9f99cdce.chunk.css.map": "/First-Project-on-React/static/css/4.9f99cdce.chunk.css.map",
+    "static/css/main.3de02d04.chunk.css.map": "/First-Project-on-React/static/css/main.3de02d04.chunk.css.map",
+    "static/js/2.128afdeb.chunk.js.LICENSE.txt": "/First-Project-on-React/static/js/2.128afdeb.chunk.js.LICENSE.txt",
+    "static/js/3.41c41996.chunk.js.LICENSE.txt": "/First-Project-on-React/static/js/3.41c41996.chunk.js.LICENSE.txt",
+    "static/media/preloader.e5a59789.svg": "/First-Project-on-React/static/media/preloader.e5a59789.svg",
+    "static/media/user.e26f5069.png": "/First-Project-on-React/static/media/user.e26f5069.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f25119d.js",
+    "static/js/2.128afdeb.chunk.js",
+    "static/css/main.3de02d04.chunk.css",
+    "static/js/main.d123eae6.chunk.js"
+  ]
+}
